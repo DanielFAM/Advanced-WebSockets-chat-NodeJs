@@ -10,4 +10,4 @@
 - Bootstrap / css / FontAwesome
 
 ### Creditos:
-* Ejemplo tomado y adaptado de FaztWeb.com & [canal de youtube Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg).
+* Ejemplo tomado y adaptado de [FaztWeb.com](https://faztweb.com) & [canal de youtube Fazt](https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg).
